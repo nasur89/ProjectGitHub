@@ -14,4 +14,11 @@ public class Emp {
 
 	}
 
+	private void m3() {
+		System.out.println("nas elanga");
+	}
+	private void m4() {
+		System.out.println("nas mnp");
+
+	}
 }
