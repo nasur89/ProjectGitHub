@@ -26,4 +26,13 @@ public class Emp {
 		System.out.println("raja nas collabrators");
 
 	}
+
+private void method5() {
+	System.out.println("new method ");
+
+}
+
+	
+
+
 }
