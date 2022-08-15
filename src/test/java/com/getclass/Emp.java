@@ -21,4 +21,9 @@ public class Emp {
 		System.out.println("nas mnp");
 
 	}
+	
+	private void m5() {
+		System.out.println("raja nas collabrators");
+
+	}
 }
