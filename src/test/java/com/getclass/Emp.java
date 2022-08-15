@@ -21,4 +21,12 @@ public class Emp {
 		System.out.println("nas mnp");
 
 	}
+	
+private void method5() {
+	System.out.println("new method ");
+
+}
+
+	
+
 }
